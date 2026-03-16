@@ -1,5 +1,3 @@
-# Video-Game-Sales-and-Engagement-Analysis-
-
 # 🎮 Video Game Sales & Engagement Analysis
 
 ## 📊 Project Overview
