@@ -1,3 +1,5 @@
+Data analysis project exploring global video game sales and player engagement trends using Python, Pandas, and data visualization to uncover insights across platforms, genres, and publishers.
+
 # 🎮 Video Game Sales & Engagement Analysis
 
 ## 📊 Project Overview
